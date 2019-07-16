@@ -1,0 +1,8 @@
+.idea
+data
+*.pt
+*.zip
+.ipynb_checkpoints
+swae-pytorch-master
+imgs
+gifs
